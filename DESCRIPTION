@@ -1,0 +1,6 @@
+Package: AnnikkiPackage
+Type: Package
+Title: Package with Annikki's functions
+Version: 0.0.1.0
+Encoding: UTF-8
+RoxygenNote: 7.3.0
